@@ -7,7 +7,7 @@
 definition(
     name: "SMS",
     namespace: "BrooksBennett",
-    author: "Brooks Sky Bennett",
+    author: "Brooks Bennett",
     description: "SMS Test",
     category: "Convenience",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
